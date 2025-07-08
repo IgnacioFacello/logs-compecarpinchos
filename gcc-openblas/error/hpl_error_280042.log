@@ -1,0 +1,36 @@
+cpu-bind=MASK - bdw04, task  0  0 [728362]: mask 0xffffffff set
+cpu-bind=MASK - bdw04, task  0  0 [728381]: mask 0x1 set
+cpu-bind=MASK - bdw04, task  1  1 [728382]: mask 0x10000 set
+cpu-bind=MASK - bdw04, task  2  2 [728383]: mask 0x2 set
+cpu-bind=MASK - bdw04, task  3  3 [728384]: mask 0x20000 set
+cpu-bind=MASK - bdw04, task  4  4 [728385]: mask 0x4 set
+cpu-bind=MASK - bdw04, task  5  5 [728386]: mask 0x40000 set
+cpu-bind=MASK - bdw04, task  6  6 [728387]: mask 0x8 set
+cpu-bind=MASK - bdw04, task  7  7 [728388]: mask 0x80000 set
+cpu-bind=MASK - bdw04, task  8  8 [728389]: mask 0x10 set
+cpu-bind=MASK - bdw04, task  9  9 [728390]: mask 0x100000 set
+cpu-bind=MASK - bdw04, task 10 10 [728391]: mask 0x20 set
+cpu-bind=MASK - bdw04, task 11 11 [728392]: mask 0x200000 set
+cpu-bind=MASK - bdw04, task 12 12 [728393]: mask 0x40 set
+cpu-bind=MASK - bdw04, task 13 13 [728394]: mask 0x400000 set
+cpu-bind=MASK - bdw04, task 14 14 [728395]: mask 0x80 set
+cpu-bind=MASK - bdw04, task 15 15 [728396]: mask 0x800000 set
+cpu-bind=MASK - bdw04, task 16 16 [728397]: mask 0x100 set
+cpu-bind=MASK - bdw04, task 17 17 [728398]: mask 0x1000000 set
+cpu-bind=MASK - bdw04, task 18 18 [728399]: mask 0x200 set
+cpu-bind=MASK - bdw04, task 19 19 [728400]: mask 0x2000000 set
+cpu-bind=MASK - bdw04, task 20 20 [728401]: mask 0x400 set
+cpu-bind=MASK - bdw04, task 21 21 [728402]: mask 0x4000000 set
+cpu-bind=MASK - bdw04, task 22 22 [728403]: mask 0x800 set
+cpu-bind=MASK - bdw04, task 23 23 [728404]: mask 0x8000000 set
+cpu-bind=MASK - bdw04, task 24 24 [728405]: mask 0x1000 set
+cpu-bind=MASK - bdw04, task 25 25 [728406]: mask 0x10000000 set
+cpu-bind=MASK - bdw04, task 26 26 [728407]: mask 0x2000 set
+cpu-bind=MASK - bdw04, task 27 27 [728408]: mask 0x20000000 set
+cpu-bind=MASK - bdw04, task 28 28 [728409]: mask 0x4000 set
+cpu-bind=MASK - bdw04, task 29 29 [728410]: mask 0x40000000 set
+cpu-bind=MASK - bdw04, task 30 30 [728411]: mask 0x8000 set
+cpu-bind=MASK - bdw04, task 31 31 [728412]: mask 0x80000000 set
+slurmstepd: error: *** STEP 280042.0 ON bdw04 CANCELLED AT 2025-07-08T13:19:40 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 280042 ON bdw04 CANCELLED AT 2025-07-08T13:19:40 DUE TO TIME LIMIT ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
