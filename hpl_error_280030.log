@@ -1,0 +1,17 @@
+cpu-bind=MASK - bdw03, task  0  0 [576568]: mask 0xffff set
+cpu-bind=MASK - bdw03, task  0  0 [576587]: mask 0x1 set
+cpu-bind=MASK - bdw03, task  1  1 [576588]: mask 0x2 set
+cpu-bind=MASK - bdw03, task  2  2 [576589]: mask 0x4 set
+cpu-bind=MASK - bdw03, task  3  3 [576590]: mask 0x8 set
+cpu-bind=MASK - bdw03, task  4  4 [576591]: mask 0x10 set
+cpu-bind=MASK - bdw03, task  5  5 [576592]: mask 0x20 set
+cpu-bind=MASK - bdw03, task  6  6 [576593]: mask 0x40 set
+cpu-bind=MASK - bdw03, task  7  7 [576594]: mask 0x80 set
+cpu-bind=MASK - bdw03, task  8  8 [576595]: mask 0x100 set
+cpu-bind=MASK - bdw03, task  9  9 [576596]: mask 0x200 set
+cpu-bind=MASK - bdw03, task 10 10 [576597]: mask 0x400 set
+cpu-bind=MASK - bdw03, task 11 11 [576598]: mask 0x800 set
+cpu-bind=MASK - bdw03, task 12 12 [576599]: mask 0x1000 set
+cpu-bind=MASK - bdw03, task 13 13 [576600]: mask 0x2000 set
+cpu-bind=MASK - bdw03, task 14 14 [576601]: mask 0x4000 set
+cpu-bind=MASK - bdw03, task 15 15 [576602]: mask 0x8000 set

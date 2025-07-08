@@ -1,0 +1,24 @@
+cpu-bind=MASK - bdw03, task  0  0 [577653]: mask 0xffff set
+cpu-bind=MASK - bdw03, task  0  0 [577672]: mask 0x1 set
+cpu-bind=MASK - bdw03, task  1  1 [577673]: mask 0x2 set
+cpu-bind=MASK - bdw03, task  2  2 [577674]: mask 0x4 set
+cpu-bind=MASK - bdw03, task  3  3 [577675]: mask 0x8 set
+cpu-bind=MASK - bdw03, task  4  4 [577676]: mask 0x10 set
+cpu-bind=MASK - bdw03, task  5  5 [577677]: mask 0x20 set
+cpu-bind=MASK - bdw03, task  6  6 [577678]: mask 0x40 set
+cpu-bind=MASK - bdw03, task  7  7 [577679]: mask 0x80 set
+cpu-bind=MASK - bdw03, task  8  8 [577680]: mask 0x100 set
+cpu-bind=MASK - bdw03, task  9  9 [577681]: mask 0x200 set
+cpu-bind=MASK - bdw03, task 10 10 [577682]: mask 0x400 set
+cpu-bind=MASK - bdw03, task 11 11 [577683]: mask 0x800 set
+cpu-bind=MASK - bdw03, task 12 12 [577684]: mask 0x1000 set
+cpu-bind=MASK - bdw03, task 13 13 [577685]: mask 0x2000 set
+cpu-bind=MASK - bdw03, task 14 14 [577686]: mask 0x4000 set
+cpu-bind=MASK - bdw03, task 15 15 [577687]: mask 0x8000 set
+HPL ERROR from process # 0, on line 419 of function HPL_pdinfo:
+>>> Need at least 32 processes for these tests <<<
+
+HPL ERROR from process # 0, on line 621 of function HPL_pdinfo:
+>>> Illegal input in file HPL.dat. Exiting ... <<<
+
+srun: error: bdw03: tasks 0-15: Exited with exit code 1
